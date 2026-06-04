@@ -1,4 +1,4 @@
-# ADCTF2025
+# GDUTCSCTF2026
 
 本仓库存放了广东工业大学计算机学院 2026 年网安卫士比赛（GDUTCSCTF）的题目源码和官方/选手 Writeup
 
