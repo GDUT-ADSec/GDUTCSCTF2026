@@ -31,3 +31,6 @@
 [submodule "subprojects/ricky8955555-challenges"]
 	path = subprojects/ricky8955555-challenges
 	url = https://github.com/ricky8955555/gdutcsctf-2026-challenges.git
+[submodule "challenges/web/CVE-2025-55182"]
+	path = challenges/web/CVE-2025-55182
+	url = https://github.com/Fargger/react_server_component.git

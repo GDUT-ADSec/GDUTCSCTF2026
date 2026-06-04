@@ -79,7 +79,7 @@
 | Image Service on AWS | Expert | [link](https://github.com/GDUTMeow-Challenges/Challenge-Image-Service-on-AWS) | Luminoria |
 | who_says_web3_isnt_web | Easy | | Ron |
 | Hidden Secret | Easy | [link](./challenges/web/hidden-secret) | Luminoria |
-| CVE-2025-55182 | Easy | | 华闰 |
+| CVE-2025-55182 | Easy | [link](./challenges/web/CVE-2025-55182) | 华闰 |
 | test_please_ignore | Normal | | rusty |
 | 魔法少女ノ魔女学園 | Normal | [Link](https://github.com/ricky8955555/gdutcsctf-2026-challenges/tree/main/challenges/manogakuen) | Phrinky |
 | Chatting Platform | Hard | [link](https://github.com/GDUTMeow-Challenges/Challenge-Chatting-Platform) | Luminoria |
