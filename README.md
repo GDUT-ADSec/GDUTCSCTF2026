@@ -42,7 +42,7 @@
 | Github Never Forget | Normal | | xihale |
 | 真·签到 | Easy | [link](https://github.com/GDUTMeow-Challenges/Challenge-Hello-GDUTCSCTF2026) | Luminoria |
 | Setup | Hard | [link](https://github.com/GDUTMeow-Challenges/Challenge-Setup) | Luminoria |
-| 猜猜数字喵 | Hard | | rk |
+| 猜猜数字喵 | Hard | [Link](https://github.com/ricky8955555/gdutcsctf-2026-challenges/tree/main/challenges/guess-number) | Phrinky |
 
 ### PWN
 
@@ -63,10 +63,10 @@
 | Assembly_recovery | Normal | | Kawasakikidou |
 | 入 | Easy | | EmA |
 | 人 | Easy | | EmA |
-| interactivideo | Master | | rk |
-| brainfrick | Expert | | rk |
+| interactivideo | Master | [Link](https://github.com/ricky8955555/gdutcsctf-2026-challenges/tree/main/challenges/interactivideo) | Phrinky |
+| brainfrick | Expert | [Link](https://github.com/ricky8955555/gdutcsctf-2026-challenges/tree/main/challenges/brainfrick) | Phrinky |
 | Ez_Driver | Expert | | Jeremiah |
-| nyah | Normal | | rk |
+| nyah | Normal | [Link](https://github.com/ricky8955555/gdutcsctf-2026-challenges/tree/main/challenges/nyah) | Phrinky |
 
 ### Web
 
@@ -77,7 +77,7 @@
 | Hidden Secret | Easy | [link](./challenges/web/hidden-secret) | Luminoria |
 | CVE-2025-55182 | Easy | | 华闰 |
 | test_please_ignore | Normal | | rusty |
-| 魔法少女ノ魔女学園 | Normal | | rk |
+| 魔法少女ノ魔女学園 | Normal | [Link](https://github.com/ricky8955555/gdutcsctf-2026-challenges/tree/main/challenges/manogakuen) | Phrinky |
 | Chatting Platform | Hard | [link](https://github.com/GDUTMeow-Challenges/Challenge-Chatting-Platform) | Luminoria |
 | Fast Hands | Hard | [link](https://github.com/GDUTMeow-Challenges/Challenge-Fast-Hands) | Luminoria |
 

@@ -28,3 +28,6 @@
 [submodule "challenges/misc/2026happynewyear"]
 	path = challenges/misc/2026happynewyear
 	url = https://github.com/GDUTMeow-Challenges/Challenge-2026HappyNewYear.git
+[submodule "subprojects/ricky8955555-challenges"]
+	path = subprojects/ricky8955555-challenges
+	url = https://github.com/ricky8955555/gdutcsctf-2026-challenges.git
