@@ -30,26 +30,25 @@
 
 | 题目名称 | 题目难度 | 题目仓库链接 | 出题人 |
 | --- | --- | --- | --- |
-| Secret in Chatting | Hard | | Luminoria |
+| Secret in Chatting | Hard | [link](https://github.com/GDUTMeow-Challenges/Challenge-Secret-in-Chatting) | Luminoria |
 
 ### Misc
 
 | 题目名称 | 题目难度 | 题目仓库链接 | 出题人 |
 | --- | --- | --- | --- |
-| 新年快乐！ | Normal | | Luminoria |
-| Crack Me | Normal | | Luminoria |
-| 我是谁？ | Easy | | Luminoria |
+| 新年快乐！ | Normal | [link](https://github.com/GDUTMeow-Challenges/Challenge-2026HappyNewYear) | Luminoria |
+| Crack Me | Normal | [link](https://github.com/GDUTMeow-Challenges/Challenge-CrackMe) | Luminoria |
+| 我是谁？ | Easy | [link](https://github.com/GDUTMeow-Challenges/Challenge-whoami) | Luminoria |
 | Github Never Forget | Normal | | xihale |
-| 真·签到 | Easy | | Luminoria |
-| Setup | Hard | | Luminoria |
+| 真·签到 | Easy | [link](https://github.com/GDUTMeow-Challenges/Challenge-Hello-GDUTCSCTF2026) | Luminoria |
+| Setup | Hard | [link](https://github.com/GDUTMeow-Challenges/Challenge-Setup) | Luminoria |
 | 猜猜数字喵 | Hard | | rk |
-| 调查问卷 | Easy | | Luminoria |
 
 ### PWN
 
 | 题目名称 | 题目难度 | 题目仓库链接 | 出题人 |
 | --- | --- | --- | --- |
-| ezstack | Easy | | Luminoria |
+| ezstack | Easy | [link](https://github.com/GDUTMeow-Challenges/Challenge-ezstack) | Luminoria |
 | nopnopnop | Easy | | lad |
 | ezstring | Easy | | lad |
 | baseh | Normal | | lad |
@@ -73,14 +72,14 @@
 
 | 题目名称 | 题目难度 | 题目仓库链接 | 出题人 |
 | --- | --- | --- | --- |
-| Image Service on AWS | Expert | | Luminoria |
+| Image Service on AWS | Expert | [link](https://github.com/GDUTMeow-Challenges/Challenge-Image-Service-on-AWS) | Luminoria |
 | who_says_web3_isnt_web | Easy | | Ron |
-| Hidden Secret | Easy | | Luminoria |
+| Hidden Secret | Easy | [link](./challenges/web/hidden-secret) | Luminoria |
 | CVE-2025-55182 | Easy | | 华闰 |
 | test_please_ignore | Normal | | rusty |
 | 魔法少女ノ魔女学園 | Normal | | rk |
-| Chatting Platform | Hard | | Luminoria |
-| Fast Hands | Hard | | Luminoria |
+| Chatting Platform | Hard | [link](https://github.com/GDUTMeow-Challenges/Challenge-Chatting-Platform) | Luminoria |
+| Fast Hands | Hard | [link](https://github.com/GDUTMeow-Challenges/Challenge-Fast-Hands) | Luminoria |
 
 ### 如何使用
 

@@ -1,0 +1,30 @@
+[submodule "challenges/web/chatting-platform"]
+	path = challenges/web/chatting-platform
+	url = https://github.com/GDUTMeow-Challenges/Challenge-Chatting-Platform.git
+[submodule "challenges/web/fast-hands"]
+	path = challenges/web/fast-hands
+	url = https://github.com/GDUTMeow-Challenges/Challenge-Fast-Hands.git
+[submodule "challenges/web/image-service-on-aws"]
+	path = challenges/web/image-service-on-aws
+	url = https://github.com/GDUTMeow-Challenges/Challenge-Image-Service-on-AWS.git
+[submodule "challenges/misc/hello-gdutctf2026"]
+	path = challenges/misc/hello-gdutctf2026
+	url = https://github.com/GDUTMeow-Challenges/Challenge-Hello-GDUTCSCTF2026.git
+[submodule "challenges/pwn/ezstack"]
+	path = challenges/pwn/ezstack
+	url = https://github.com/GDUTMeow-Challenges/Challenge-ezstack.git
+[submodule "challenges/misc/setup"]
+	path = challenges/misc/setup
+	url = https://github.com/GDUTMeow-Challenges/Challenge-Setup.git
+[submodule "challenges/misc/crackme"]
+	path = challenges/misc/crackme
+	url = https://github.com/GDUTMeow-Challenges/Challenge-CrackMe.git
+[submodule "challenges/misc/whoami"]
+	path = challenges/misc/whoami
+	url = https://github.com/GDUTMeow-Challenges/Challenge-whoami.git
+[submodule "challenges/forensics/secret-in-chatting"]
+	path = challenges/forensics/secret-in-chatting
+	url = https://github.com/GDUTMeow-Challenges/Challenge-Secret-in-Chatting.git
+[submodule "challenges/misc/2026happynewyear"]
+	path = challenges/misc/2026happynewyear
+	url = https://github.com/GDUTMeow-Challenges/Challenge-2026HappyNewYear.git
