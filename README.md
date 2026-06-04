@@ -6,6 +6,10 @@
 >
 > **本次比赛题目源码对应仓库有许可证声明的，可在许可证许可范围内进行合理使用；无许可证声明的，不可用于商业比赛，出题人保留一切权利**
 
+> [!important]
+>
+> 题目附件下载：https://github.com/GDUT-ADSec/GDUTCSCTF2026/releases/tag/attachment
+
 ## 题目
 
 ### Blockchain
