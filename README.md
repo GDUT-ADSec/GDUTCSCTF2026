@@ -53,9 +53,9 @@
 | 题目名称 | 题目难度 | 题目仓库链接 | 出题人 |
 | --- | --- | --- | --- |
 | ezstack | Easy | [link](https://github.com/GDUTMeow-Challenges/Challenge-ezstack) | Luminoria |
-| nopnopnop | Easy | | lad |
-| ezstring | Easy | | lad |
-| baseh | Normal | | lad |
+| nopnopnop | Normal | [link](https://github.com/GDUT-ADSec/GDUTCSCTF2026/tree/master/challenges/pwn/nopnopnop)| lad |
+| ezstring | Easy | [link](https://github.com/GDUT-ADSec/GDUTCSCTF2026/tree/master/challenges/pwn/ezstring)| lad |
+| baseh | Normal | [link](https://github.com/GDUT-ADSec/GDUTCSCTF2026/tree/master/challenges/pwn/baseh)| lad |
 
 ### Reverse
 
