@@ -61,10 +61,10 @@
 
 | 题目名称 | 题目难度 | 题目仓库链接 | 出题人 |
 | --- | --- | --- | --- |
-| Ez_Tea | Hard | | Kawasakikidou |
-| de_Shell | Expert | | Kawasakikidou |
+| Ez_Tea | Hard | [Link](https://github.com/Kawasakikidou/gdutsecctf2026/tree/main/ez-tea) | Kawasakikidou |
+| de_Shell | Expert | [Link](https://github.com/Kawasakikidou/gdutsecctf2026/tree/main/de-shell) | Kawasakikidou |
 | Ez_Aim | Normal | | Jeremiah & rusty |
-| Assembly_recovery | Normal | | Kawasakikidou |
+| Assembly_recovery | Normal | [Link](https://github.com/Kawasakikidou/gdutsecctf2026/tree/main/assembly-recovery) | Kawasakikidou |
 | 入 | Easy | | EmA |
 | 人 | Easy | | EmA |
 | interactivideo | Master | [Link](https://github.com/ricky8955555/gdutcsctf-2026-challenges/tree/main/challenges/interactivideo) | Phrinky |
