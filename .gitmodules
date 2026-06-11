@@ -37,3 +37,6 @@
 [submodule "subprojects/kawasakikidou-challenges"]
 	path = subprojects/kawasakikidou-challenges
 	url = https://github.com/Kawasakikidou/gdutsecctf2026.git
+[submodule "challenges/misc/github-never-forget"]
+	path = challenges/misc/github-never-forget
+	url = https://github.com/xihale/github_never_forget.git
