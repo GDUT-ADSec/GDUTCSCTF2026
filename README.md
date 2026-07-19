@@ -26,7 +26,7 @@
 | Hard_RSA | Hard | | Stellars |
 | base | Expert | | Stellars |
 | Subtrop | Master | | Stellars |
-| bagua | Easy | | ...... |
+| bagua | Easy | | ...... |[link](https://github.com/lyuhui115/bagua-crypto) | ...... |
 | double_crypto | Easy | | 偏转中轴 |
 | otru | Hard | | 時雨てる |
 
