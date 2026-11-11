@@ -40,3 +40,6 @@
 [submodule "challenges/misc/github-never-forget"]
 	path = challenges/misc/github-never-forget
 	url = https://github.com/xihale/github_never_forget.git
+[submodule "challenges/reverse/snake50000"]
+	path = challenges/reverse/snake50000
+	url = https://github.com/lyuhui115/Challenge-Snake50000.git
