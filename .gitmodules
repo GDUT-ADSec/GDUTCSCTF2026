@@ -43,3 +43,6 @@
 [submodule "challenges/reverse/snake50000"]
 	path = challenges/reverse/snake50000
 	url = https://github.com/lyuhui115/Challenge-Snake50000.git
+[submodule "challenges/crypto/incomplete-codebook"]
+	path = challenges/crypto/incomplete-codebook
+	url = https://github.com/lyuhui115/Challenge-IncompleteCodebook.git
