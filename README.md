@@ -29,6 +29,7 @@
 | bagua | Easy | [Link](https://github.com/lyuhui115/bagua-crypto) | ...... |
 | double_crypto | Easy | | 偏转中轴 |
 | otru | Hard | | 時雨てる |
+| Incomplete Codebook | Normal | [Link](https://github.com/lyuhui115/Challenge-IncompleteCodebook) | lyuhui115 |
 
 ### Forensic
 
