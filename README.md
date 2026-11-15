@@ -71,6 +71,7 @@
 | brainfrick | Expert | [Link](https://github.com/ricky8955555/gdutcsctf-2026-challenges/tree/main/challenges/brainfrick) | Phrinky |
 | Ez_Driver | Expert | | Jeremiah |
 | nyah | Normal | [Link](https://github.com/ricky8955555/gdutcsctf-2026-challenges/tree/main/challenges/nyah) | Phrinky |
+| Snake50000 | Hard | [Link](https://github.com/lyuhui115/Challenge-Snake50000) | lyuhui115 |
 
 ### Web
 
